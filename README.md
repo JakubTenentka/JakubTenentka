@@ -1,7 +1,7 @@
 # Cześć, jestem Jakub Tenentka 👋
 
 🎓 Student ostatniego roku Informatyki Stosowanej na Politechnice Łódzkiej  
-💻 Poszukuję pierwszego stażu lub stanowiska jako programista
+💻 Poszukuję pierwszego stażu lub pracy jako programista
 🚀 Interesuję się **Java, Spring Boot, aplikacjami mobilnymi (Flutter) oraz systemami backendowymi**  
 
 ---
