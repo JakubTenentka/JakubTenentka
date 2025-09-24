@@ -1,12 +1,12 @@
-# Cześć, jestem Jakub Tenentka 👋
+# Hi, I'm Jakub Tenentka 👋
 
-🎓 Student ostatniego roku Informatyki Stosowanej na Politechnice Łódzkiej  
-💻 Poszukuję pierwszego stażu lub pracy jako programista
-🚀 Interesuję się **Java, Spring Boot, aplikacjami mobilnymi (Flutter) oraz systemami backendowymi**  
+🎓 Final year student of Applied Computer Science at Lodz University of Technology  
+💻 Looking for my first internship or job as a programmer
+🚀 Interested in **Java, Spring Boot, mobile applications (Flutter), and backend systems**  
 
 ---
 
-## 🔧 Technologie i narzędzia
+## 🔧 Technologies and Tools
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
@@ -30,5 +30,5 @@
 ---
 
 
-## 📫 Kontakt
+## 📫 Contact
 ✉️ Email: jakubtenentka@gmail.com
