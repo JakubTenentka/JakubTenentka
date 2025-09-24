@@ -1,3 +1,4 @@
+[![pl](https://img.shields.io/badge/lang-pl-red.svg)](https://github.com/JakubTenentka/JakubTenentka/blob/main/README.pl.md)
 # Hi, I'm Jakub Tenentka 👋
 
 🎓 Final year student of Applied Computer Science at Lodz University of Technology  
