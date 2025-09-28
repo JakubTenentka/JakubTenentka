@@ -2,7 +2,7 @@
 # Hi, I'm Jakub Tenentka 👋
 
 🎓 Final year student of Applied Computer Science at Lodz University of Technology  
-💻 Looking for my first internship or job as a programmer
+💻 Looking for my first internship or job as a programmer     
 🚀 Interested in **Java, Spring Boot, mobile applications (Flutter), and backend systems**  
 
 ---
